@@ -30,5 +30,5 @@ This application is covered by the Open license.
 :octocat: Find me on GitHub: [telacaul](https://github.com/telacaul)<br />
 <br />
 ✉️ Email me with any questions: telacaul@gmail.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) _
+_This README was generated with ❤️ by [README-generator](https://github.com/telacaul/node.js_README_generator) _
     
