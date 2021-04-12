@@ -1,4 +1,4 @@
-// Declaring the dependencies and variables
+// Defining variables
 const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
@@ -70,7 +70,7 @@ function promptUser(){
     ]);
 } 
 
-// Async function using util.promisify 
+// Async function 
   async function init() {
     try {
         // Ask user questions and generate responses
