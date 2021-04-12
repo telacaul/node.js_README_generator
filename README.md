@@ -4,7 +4,7 @@
 This node.js application is functional through the command line, assisting the user in generating a README.md file for their GitHub repository. It takes user input through inquirer to populate the README template. It allows developers to quickly and easily generate their README file for new projects. Enjoy!
 
 ## Screenshot / Video of Functionality
-Click here to view video of functionality [https://drive.google.com/file/d/16Y7KZYLOhommjWmB6_I7jDkdAOinu5m0/view?usp=sharing]
+[Click here to view video of functionality](https://drive.google.com/file/d/16Y7KZYLOhommjWmB6_I7jDkdAOinu5m0/view?usp=sharing)
 
 ## Challenge Requirements
 ### User Story
