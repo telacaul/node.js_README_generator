@@ -1,9 +1,9 @@
 
-<h1 align="center">sjdflks 👋</h1>
+<h1 align="center">README generator 👋</h1>
   
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
-🔍 lsdfj
+🔍 This is a node.js application that creates a README file.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,17 +15,17 @@
 ## Installation
 💾 N/A
 ## Usage
-💻 Stuff
+💻 Web development README files
 ## License
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
 This application is covered by the Open license. 
 ## Contributing
-👪 TC
+👪 Tela Caul
 ## Tests
 ✏️ No
 ## Questions
-✋ Stuff<br />
+✋ Email telacaul@gmail.com<br />
 <br />
 :octocat: Find me on GitHub: [telacaul](https://github.com/telacaul)<br />
 <br />
